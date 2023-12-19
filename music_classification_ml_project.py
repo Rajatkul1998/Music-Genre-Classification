@@ -184,7 +184,6 @@ def confusionmatrix(y_true,y_pred):
 
 torch.save(vgg_based.state_dict(), '/kaggle/working/model.pth')
 
-!zip -r model.zip /kaggle/working
 
 confusionmatrix(y_true,y_preds)
 
