@@ -27,6 +27,7 @@ The model is trained using a custom training loop, employing the Adam optimizer 
 
 ## Evaluation:
 The accuracy of the trained model is evaluated on a validation dataset. The confusion matrix is visualized using seaborn, providing insights into the model's performance across different music genres.
+<img src="Picture1.png">
 
 ## Usage:
 * Run the provided script to convert audio files into Mel Spectrograms and set up the dataset.
