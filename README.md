@@ -31,5 +31,5 @@ The accuracy of the trained model is evaluated on a validation dataset. The conf
 ## Contribution Guidelines:
 Feel free to explore and modify the code to suit your specific needs or datasets.
 
-Acknowledgments
+## Acknowledgments:
 This project utilizes the power of VGG16 and various Python libraries for efficient music genre classification. Special thanks to the open-source community for their contributions.
