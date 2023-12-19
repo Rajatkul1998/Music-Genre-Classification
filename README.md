@@ -2,6 +2,8 @@
 <h2>Overview</h2>
 This project focuses on classifying music genres using VGG16, a deep neural network model, on a dataset containing audio samples. The process involves converting audio files into Mel Spectrograms, which are then transformed into normalized tensors and used for training the VGG16 model.
 
+## <h4>Colab Link:</h4> https://colab.research.google.com/drive/1tJ9_jFJNTPZ6900j9-0lHz9pfhL_dPTV
+
 ## Prerequisites:
 Ensure the following packages are installed:
 * numpy
