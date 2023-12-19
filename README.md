@@ -4,6 +4,10 @@ This project focuses on classifying music genres using VGG16, a deep neural netw
 
 ## <h3>Colab Link:</h3> https://colab.research.google.com/drive/1tJ9_jFJNTPZ6900j9-0lHz9pfhL_dPTV
 
+## <h3>Dataset Used:</h3>
+It consists of 1,000 audio tracks, each lasting for 30 seconds, covering 10 different genres: blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, and rock. The dataset provides a diverse set of musical genres and serves as a benchmark for evaluating algorithms and models in the field of audio signal processing and machine learning
+Link: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+
 ## Prerequisites:
 Ensure the following packages are installed:
 * numpy
