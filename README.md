@@ -21,6 +21,7 @@ Ensure the following packages are installed:
 
 ## Model Configuration:
 VGG16 is employed as the base model, with its classifier modified to fit the specific requirements of the music genre classification task. The final layer is adjusted to output 10 classes corresponding to different music genres.
+<img src="model.jpg">
 
 ## Training:
 The model is trained using a custom training loop, employing the Adam optimizer and CrossEntropyLoss. The training script outputs the loss at each epoch, and after training, the model's parameters are saved.
